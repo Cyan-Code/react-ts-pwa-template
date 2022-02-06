@@ -1,6 +1,6 @@
 {
-  "short_name": "Latte and Code PWA",
-  "name": "Latte and Code PWA",
+  "short_name": "Counter App PWA",
+  "name": "Counter App PWA",
   "icons": [
     {
       "src": "favicon.ico",
